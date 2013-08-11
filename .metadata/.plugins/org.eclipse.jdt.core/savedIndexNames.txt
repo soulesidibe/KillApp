@@ -1,9 +1,0 @@
-INDEX VERSION 1.126+/home/soulesidibe/StudioProject/KillerApp/.metadata/.plugins/org.eclipse.jdt.core
-1292519629.index
-1111150112.index
-2556471882.index
-3618697526.index
-1689674710.index
-760675718.index
-1917658369.index
-2332960264.index
